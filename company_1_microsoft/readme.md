@@ -1,18 +1,18 @@
 Question 1 : Link=https://leetcode.com/problems/evaluate-reverse-polish-notation/
 Challenge Company 1 : Microsoft 
-You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.[https://leetcode.com/problems/evaluate-reverse-polish-notation/]
-Combination Sum with a twist.
-Bulls and Cows
-You are given an integer array nums of length n. Return maximum length of Rotation Function.
-Largest Divisible Subset.
-How to find a perfect Rectangle.
-Scheduling a Course.
-Profitable Path in a Tree.
-Number of Pairs satisfying Inequality.
-Shortest Unsorted continuous Subarray
-Number of ways to arrive at a Destination.
-Longest Happy Prefix
-Seat Arrangement in a SpiceJet Problem - Online OA February ‘22
-Deletions to make an array divisible.
-Substrings containing all three Characters
+1. [You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.](https://leetcode.com/problems/ evaluate-reverse-polish-notation/) \n
+2. [Combination Sum with a twist.](https://leetcode.com/problems/combination-sum-iii/)
+3. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
+4. [You are given an integer array nums of length n. Return maximum length of Rotation Function.](https://leetcode.com/problems/rotate-function/)
+5. [Largest Divisible Subset.](https://leetcode.com/problems/largest-divisible-subset/)
+6. [How to find a perfect Rectangle.](https://leetcode.com/problems/perfect-rectangle/)
+7. [Scheduling a Course.](https://leetcode.com/problems/course-schedule/)
+8. [Profitable Path in a Tree.](https://leetcode.com/problems/most-profitable-path-in-a-tree/)
+9. [Number of Pairs satisfying Inequality.](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
+10. [Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+11. [Number of ways to arrive at a Destination.](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
+12. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
+13. [Seat Arrangement in a SpiceJet Problem - Online OA February ‘22](https://leetcode.com/problems/airplane-seat-assignment-probability/)
+14. [Deletions to make an array divisible.](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)
+15. [Substrings containing all three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
 
